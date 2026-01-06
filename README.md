@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hei! 
+
+I'm Tini, a computer science student at the University of Oslo in Norway.
+Specifically in my last year of the bachelor Informatics: Programming and Systems Architecture.
+
+My main tech stack is Java, Kotlin, Scheme and Python. 
+
+Started being interested in coding from making themes and layouts in the game goSupermodel and tumblr as a child, and here I am :D
+Dropped out of medicine after three years, built my own pc, and pursued coding. 
+
 
 <!--
 **ttinyt/ttinyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

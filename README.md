@@ -1,6 +1,7 @@
 ## Hei! 
 
 I'm Tini, a computer science student at the University of Oslo in Norway.
+
 Specifically in my last year of the bachelor Informatics: Programming and Systems Architecture.
 
 My main tech stack is Java, Kotlin, Scheme and Python. 

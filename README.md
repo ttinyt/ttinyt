@@ -7,7 +7,7 @@ My main tech stack is Java, Kotlin, Scheme and Python.
 
 Started being interested in coding from making themes and layouts in the game goSupermodel and tumblr as a child, and here I am :D
 Dropped out of medicine after three years, built my own pc, and pursued coding.
-So going doing my master in digitalization in the health sector is a crossover of my two interests!
+So doing my master in digitalization in the health sector is a crossover of my two interests!
 
 <!--
 **ttinyt/ttinyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
